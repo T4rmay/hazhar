@@ -118,7 +118,6 @@ while (loop == 'true'):
 
 def login():
 
-def menu():
     os.system('clear')
     print logo
     print 42 * '\x1b[1;91m='
