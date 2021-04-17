@@ -75,7 +75,7 @@ def menu():
     os.system('clear')
     print logo
     print 42 * '\x1b[1;91m='
-    print '\x1b[1;94m[1]\x1b[1;92m HALO CRACK.        \x1b[1;91m\xe2\x87\x8b  \x1b[1;94m[Up]\x1b[1;93m Cracker Number '
+    print '\x1b[1;94m[01]\x1b[1;92m CracK InsTaGraM.        \x1b[1;91m\xe2\x87\x8b  \x1b[1;94m[01]\x1b[1;93m FaCeBooK CraCKer '
     print 42 * '\x1b[1;91m='
     action()
 
