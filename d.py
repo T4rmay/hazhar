@@ -46,7 +46,7 @@ def t():
 
 def cb():
     os.system('clear')
-os.system("filget YAXI")
+os.system("filget 5h4ka")
 
 logo ="""
 
